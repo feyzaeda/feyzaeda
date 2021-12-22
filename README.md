@@ -2,9 +2,9 @@
 
 I'm an **Android Developer** & **Computer Engineer** from Turkey
 
-🎓 I graduated from Pamukkale University Computer Engineering Department
-📚 I’m currently learning how to build mobil app with kotlin, swift, dart 
-📫 How to reach me: tfeyzaeda@gmail.com
+- 🎓 I graduated from Pamukkale University Computer Engineering Department
+- 📚 I’m currently learning how to build mobil app with kotlin, swift, dart 
+- 📫 How to reach me: tfeyzaeda@gmail.com
 
 <!--
 **feyzaeda/feyzaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
