@@ -6,7 +6,7 @@ I'm an **Android Developer** & **Computer Engineer** from Turkey
 - 📚 I’m currently learning how to build mobil app with kotlin, swift, dart 
 - 📫 How to reach me: tfeyzaeda@gmail.com
 
-![Top-langugaes](https://github-readme-stats.vercel.app/api/top-langs/?username=feyzaeda&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![Top-langugaes](https://github-readme-stats.vercel.app/api/top-langs/?username=feyzaeda&layout=compact&show_icons=true&theme=radical)
 
 <!--
 **feyzaeda/feyzaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
