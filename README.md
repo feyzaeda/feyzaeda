@@ -3,7 +3,7 @@
 I'm an **Android Developer** & **Computer Engineer** from Turkey
 
 - 🎓 I graduated from Pamukkale University Computer Engineering Department
-- 📚 I’m currently learning how to build mobil app with kotlin, swift, dart 
+- 📚 I’m currently learning how to build mobil app with kotlin
 - 📫 How to reach me: tfeyzaeda@gmail.com
 
 ![Top-langugaes](https://github-readme-stats.vercel.app/api/top-langs/?username=feyzaeda&layout=compact&show_icons=true&theme=radical)
