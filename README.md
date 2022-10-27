@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Feyza Eda! Get to know me 👇🏻
 
-I'm an **Android Developer** & **Computer Engineer** from Turkey
+I'm an **Android Developer** & **Computer Engineer** from Ankara/Turkey
 
 - 🔭 I’m currently working on Innova Bilişim
 - 🎓 I graduated from Pamukkale University Computer Engineering Department
