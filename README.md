@@ -2,6 +2,7 @@
 
 I'm an **Android Developer** & **Computer Engineer** from Turkey
 
+- 🔭 I’m currently working on Innova Bilişim
 - 🎓 I graduated from Pamukkale University Computer Engineering Department
 - 📚 I’m currently learning how to build mobil app with kotlin
 - 📫 How to reach me: tfeyzaeda@gmail.com
@@ -13,7 +14,7 @@ I'm an **Android Developer** & **Computer Engineer** from Turkey
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
